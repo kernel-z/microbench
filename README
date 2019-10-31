@@ -1,2 +1,25 @@
 microbench test system base performance, which will show you the system ability.
 
+CPU:
+    Freq
+    Performance
+    tlb
+    cache
+    
+
+MEM:
+    bw_pipe
+    bw_tcp
+    bw_unix
+    lat
+
+IO:
+    flushdisk
+
+NET:
+    http
+    
+    
+
+Can compare the results
+
