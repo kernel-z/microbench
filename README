@@ -11,7 +11,7 @@ MEM:
     bw_pipe
     bw_tcp
     bw_unix
-    lat
+    lat : need to save the all results
 
 IO:
     flushdisk
